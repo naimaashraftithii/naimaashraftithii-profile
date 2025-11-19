@@ -1,28 +1,35 @@
 # naimaashraftithii-profile
+
 ![logo](https://github.com/naimaashraftithii/naimaashraftithii-profile/blob/main/banner.png)
-
-
-
-
 
 <!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=32F7D0&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Naima+Ashraf+Tithi;MERN+Stack+Developer;JavaScript+Enthusiast;Building+Modern%2C+Scalable+Web+Solutions;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naimaashraftithii&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/naimaashraftithii?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/naimaashraftithii?affiliations=OWNER%2CCOLLABORATOR&style=flat" />
+</p>
+
 ---
 
 # 👩‍💻 **About Me**
-<img align="right" alt="coding" width ="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FChandniJha630%2FChandniJha630&psig=AOvVaw1wDMQoUTBMpMPILC6_EcxS&ust=1763629749772000&source=images&cd=vfe&opi=89978449&ved=0CBUQjhxqFwoTCLia__fu_ZADFQAAAAAdAAAAABAE">
-Hi! I'm **Naima Ashraf Tithi**, a passionate **MERN Stack Developer** from **Khulna, Bangladesh 🇧🇩**  
-I love building clean, efficient, modern web applications with:
 
-- ⚛ **React.js, Next.js**
-- 🚀 **Node.js, Express.js**
+<img align="right" alt="coding" width="350"
+  src="https://raw.githubusercontent.com/naimaashraftithii/naimaashraftithii-profile/main/coding.gif" />
+
+Hi! I'm **Naima Ashraf Tithi**, a passionate **MERN Stack Developer** from **Khulna, Bangladesh 🇧🇩**  
+
+I love building **clean, efficient, and modern** web applications using:
+
+- ⚛ **React.js & Next.js**
+- 🚀 **Node.js & Express.js**
 - 🗄 **MongoDB**
 - 🎨 **Tailwind CSS & modern UI systems**
 
-I focus on writing **clean code**, building **scalable systems**, and constantly learning to improve as a developer.
+I focus on writing **clean code**, building **scalable systems**, and continuously learning to grow as a developer.
 
 ✨ *“Code. Create. Improve. Repeat.”*
 
@@ -31,26 +38,32 @@ I focus on writing **clean code**, building **scalable systems**, and constantly
 # 🔥 **What I'm Doing Now**
 
 - 🌱 Learning **Next.js App Router, TypeScript & advanced React concepts**
-- 🔧 Building full-stack MERN applications  
-- 🎨 Working on modern UI/UX designs  
-- 🚀 Deploying on **Vercel, Netlify & Firebase**  
-- 🤝 Open to collaborations on MERN projects  
+- 🔧 Building full-stack **MERN** applications  
+- 🎨 Working on modern **UI/UX designs**  
+- 🚀 Deploying projects on **Vercel, Netlify & Firebase**  
+- 🤝 Open to collaborations on **MERN stack projects**  
 
 ---
 
 # 🛠️ **Tech Stack**
 
-### 🎨 Frontend  
-React · Next.js · Redux · JavaScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap
+<details>
+  <summary><b>💻 View My Main Stack</b></summary>
+  <br/>
 
-### ⚙ Backend  
-Node.js · Express.js · REST APIs · JWT Authentication
+  ### 🎨 Frontend  
+  React · Next.js · Redux · JavaScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap
 
-### 🗄 Database  
-MongoDB · Firebase · Mongoose
+  ### ⚙ Backend  
+  Node.js · Express.js · REST APIs · JWT Authentication
 
-### 🧰 Tools & Platforms  
-Git · GitHub · VS Code · Postman · Figma · Photoshop
+  ### 🗄 Database  
+  MongoDB · Firebase · Mongoose
+
+  ### 🧰 Tools & Platforms  
+  Git · GitHub · VS Code · Postman · Figma · Photoshop
+
+</details>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,html,css,bootstrap,tailwind,redux,firebase,git,github,figma,vscode,postman" />
@@ -60,14 +73,19 @@ Git · GitHub · VS Code · Postman · Figma · Photoshop
 
 # 📌 **Featured Projects**
 
+<details open>
+  <summary><b>✨ Some Projects I'm Proud Of</b></summary>
+  <br/>
+
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
-| **A9 TravelEase (Client)** | A modern travel service platform with dynamic routes, authentication & responsive UI | React, Node.js, Express, MongoDB | [🌐 Live](YOUR_LIVE_LINK) |
-| **A9 TravelEase (Server)** | Backend API for user auth, services, bookings & database management | Node.js, Express, MongoDB | [☁ API](YOUR_API_LINK) |
-| **A8 Hero App** | React-based modern web UI with reusable components | React, Tailwind | [🌐 Live](YOUR_LIVE_LINK) |
-| **A6 GreenEarthPlant** | Simple responsive landing platform | HTML, CSS | [🌐 Live](YOUR_LIVE_LINK) |
+| **A9 TravelEase (Client)** | A modern travel service platform with dynamic routes, authentication & responsive UI | React, Node.js, Express, MongoDB | [🌐 Live](https://harmonious-concha-12cd95.netlify.app/) |
+| **A8 Hero App** | React-based modern web UI with reusable components | React, Tailwind | [🌐 Live](https://dreamy-pasca-9cf65c.netlify.app/) |
+| **A6 GreenEarthPlant** | Simple responsive landing platform | HTML, CSS | [🌐 Live](https://greeenet.netlify.app/)|
 
-> Want to add screenshots? I can format them beautifully.
+> 🔁 Replace `YOUR_LIVE_LINK` and `YOUR_API_LINK` with real deployed URLs.
+
+</details>
 
 ---
 
