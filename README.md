@@ -81,10 +81,8 @@ I focus on writing **clean code**, building **scalable systems**, and continuous
 |--------|-------------|------------|------|
 | **A9 TravelEase (Client)** | A modern travel service platform with dynamic routes, authentication & responsive UI | React, Node.js, Express, MongoDB | [🌐 Live](https://harmonious-concha-12cd95.netlify.app/) |
 | **A8 Hero App** | React-based modern web UI with reusable components | React, Tailwind | [🌐 Live](https://zesty-fenglisu-d5e062.netlify.app/) |
-| **A6 GreenEarthPlant** | Simple responsive landing platform | HTML, CSS | [🌐 Live](https://greeenet.netlify.app/)|
-| **A9-Green-Nest** | Simple responsive landing platform | HTML, CSS | [🌐 Live](https://greeenet.netlify.app/)|
-
-
+| **A6 GreenEarthPlant** | Simple responsive landing platform | HTML, CSS | [🌐 Live](https://greeenet.netlify.app/) |
+| **A9-Green-Nest** | Simple responsive landing platform | HTML, CSS | [🌐 Live](https://greeenet.netlify.app/) |
 
 </details>
 
@@ -109,7 +107,7 @@ I focus on writing **clean code**, building **scalable systems**, and continuous
     <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
-  <a href="mailto:naimaashraftithi@gmail.com">
+  <a href="mailto:naimaashraftithii@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -131,18 +129,6 @@ I focus on writing **clean code**, building **scalable systems**, and continuous
 
 # 🏆 **GitHub Achievements & Trophies**
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naimaashraftithii&theme=algolia&margin-w=10&margin-h=10" />
-</p> -->
-
----
-
-# 🐍 **Contribution Snake (Animated)**
-
 <p align="center">
-  <img src="https://github.com/naimaashraftithii/naimaashraftithii/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naimaashraftithii&theme=onedark&column=6&margin-w=10&margin-h=15" />
 </p>
-
----
-
-# ⭐ **Designed with ❤️ by Naima Ashraf Tithi**
