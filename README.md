@@ -80,8 +80,9 @@ I focus on writing **clean code**, building **scalable systems**, and continuous
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
 | **A9 TravelEase (Client)** | A modern travel service platform with dynamic routes, authentication & responsive UI | React, Node.js, Express, MongoDB | [🌐 Live](https://harmonious-concha-12cd95.netlify.app/) |
-| **A8 Hero App** | React-based modern web UI with reusable components | React, Tailwind | [🌐 Live](https://dreamy-pasca-9cf65c.netlify.app/) |
+| **A8 Hero App** | React-based modern web UI with reusable components | React, Tailwind | [🌐 Live](https://zesty-fenglisu-d5e062.netlify.app/) |
 | **A6 GreenEarthPlant** | Simple responsive landing platform | HTML, CSS | [🌐 Live](https://greeenet.netlify.app/)|
+| **A9-Green-Nest** | Simple responsive landing platform | HTML, CSS | [🌐 Live](https://greeenet.netlify.app/)|
 
 
 
