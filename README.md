@@ -131,9 +131,9 @@ I focus on writing **clean code**, building **scalable systems**, and continuous
 
 # 🏆 **GitHub Achievements & Trophies**
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=naimaashraftithii&theme=algolia&margin-w=10&margin-h=10" />
-</p>
+</p> -->
 
 ---
 
