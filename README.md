@@ -18,7 +18,7 @@
 # 👩‍💻 **About Me**
 
 <img align="right" alt="coding" width="350"
-  src="https://raw.githubusercontent.com/naimaashraftithii/naimaashraftithii-profile/main/coding.gif" />
+  src="https://camo.githubusercontent.com/6ffa2931760059951fffcdc9c98edd8d451afb1a029e3d6e729e47583b181dd6/68747470733a2f2f626c6f672e63617365626f6f6b2e6e65742f68756266732f35383837392d6d756c74697461736b696e672d776f6d616e2e676966" />
 
 Hi! I'm **Naima Ashraf Tithi**, a passionate **MERN Stack Developer** from **Khulna, Bangladesh 🇧🇩**  
 
@@ -83,7 +83,7 @@ I focus on writing **clean code**, building **scalable systems**, and continuous
 | **A8 Hero App** | React-based modern web UI with reusable components | React, Tailwind | [🌐 Live](https://dreamy-pasca-9cf65c.netlify.app/) |
 | **A6 GreenEarthPlant** | Simple responsive landing platform | HTML, CSS | [🌐 Live](https://greeenet.netlify.app/)|
 
-> 🔁 Replace `YOUR_LIVE_LINK` and `YOUR_API_LINK` with real deployed URLs.
+
 
 </details>
 
